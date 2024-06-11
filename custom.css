@@ -383,15 +383,6 @@ button.flex-grow-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--de
     radial-gradient(at 85% 2%, hsl(0deg 2.16% 16.96% / 69%) 0px, transparent 50%),
     radial-gradient(at 89% 56%, hsl(0deg 3.99% 13.01% / 79%) 0px, transparent 50%) !important;
 }
-.logo-wrapper {
-    display: none !important;
-}
-.theme--dark .toolbar-logo {
-    background-image: url(http://mainsailos.local/server/files/config/.fluidd-theme/sidebar-logo.png) !important;
-    background-size: 48px !important;
-    background-repeat: no-repeat !important;
-    background-position: center !important;
-}
 .mb-2.mb-sm-4.v-card.v-sheet.theme--dark.rounded-md.collapsable-card {
     border: solid 1px;
     border-color: #4a4a4a;
